@@ -1,0 +1,14 @@
+h1 {
+    font-size: 10rem;
+    font-family: 'WhyteInktrap', sans-serif;
+}
+
+.prueba {
+    width: fit-content;
+    text-transform: uppercase;
+    font-family: 'MabryPro', sans-serif;
+    font-size: 2rem;
+    border: 1px solid white;
+    padding: 1rem;
+    background: white;
+}
