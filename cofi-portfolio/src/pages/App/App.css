@@ -55,4 +55,33 @@ p, h1, h2, h3, h4, h5, h6 {
   isolation: isolate;
 }
 
-/*--------------------  --------------------*/
+/*-------------------- Variables --------------------*/
+
+:root {
+  --clr-black: hsl(0, 0%, 6%);
+  --clr-gray: hsl(0, 0%, 29%);
+  --clr-light-gray: hsl(0, 0%, 92%);
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-disabled: hsl(0, 0%, 60%);
+
+  --ff-primary: 'WhyteInktrap';
+  --ff-secondary: 'MabryPro';
+
+  --fs-20: 1.25em;
+  --fs-24: 1.5em;
+  --fs-28: 1.75em;
+  --fs-32: 2em;
+  --fs-36: 2.25em;
+  --fs-40: 2.5em;
+  --fs-44: 2.75em;
+  --fs-48: 3em;
+  --fs-60: 3.75em;
+  --fs-64: 4em;
+  --fs-80: 5em;
+  --fs-96: 6em;
+  --fs-120: 7.5em;
+  --fs-128: 8em;
+  --fs-148: 9.25em;
+  --fs-184: 11.5em;
+  
+}
