@@ -10,5 +10,5 @@ We've worked together in some projects and we always worked the same way:
 - I begin creating the base project and the github repository. I also make some html structure and basic styling first.
 - We communicate back and forth while trying some new ideas that we come up with during the process.
 - I finish recreating the design and I present to her so she can give me feedback about what can be improved.
-- The project gets launched! 
+- The project gets launched! 🚀 
 
