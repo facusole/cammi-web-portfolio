@@ -21,6 +21,10 @@ We've worked together in some projects and we always worked the same way:
 <br/>
 
 ## Final thoughts
-Recreating this website's been both fun and challenging. Working with Camila it's so easy. She gives good and solid feedback while being kind and honest. <br/><br/>
+Recreating this website's been both fun and challenging. Working with Camila it's so easy. She gives good and solid feedback while being kind and honest. <br/>
+
+## Contact
+https://www.linkedin.com/in/facundo-sole/
+<br/><br/>
 I hope you like the website! 💖  
 
