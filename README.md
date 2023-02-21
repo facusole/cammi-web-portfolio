@@ -1,7 +1,7 @@
 ## Personal website 💻 
-This project is a collaboration with Product Designer <a href='https://www.behance.net/russocamila' rel='noopener nofollow noreferrer' target='_blank'>Camila Russo</a>. She came up with the design and I recreated it using React.<br/>
+This project is a collaboration with Product Designer <a href='https://www.behance.net/russocamila' rel='noopener nofollow noreferrer' target='_blank'>Camila Russo</a>. She came up with the design and I recreated it using React.
   
-  <br/>
+<br/><br/>
 
 ## How do we work
 
@@ -17,6 +17,8 @@ We've worked together in some projects and we always worked the same way:
 - We add some final details.
 
 - The project gets launched! 🚀
+
+<br/><br/>
 
 ## Final thoughts
 
