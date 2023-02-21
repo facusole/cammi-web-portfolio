@@ -15,6 +15,7 @@ We've worked together in some projects and we always worked the same way:
 - We add some final details.
 
 - The project gets launched! 🚀
+
 <br/>
 ## Final thoughts
 
