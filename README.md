@@ -3,12 +3,16 @@ This project is a collaboration with Product Designer <a href='https://www.behan
   
 * * *
   
-## How did we work
+## How do we work
 
 We've worked together in some projects and we always worked the same way:
 - She comes up with the designs and the interactions inside the websites/projects and sends me the Figma file.
+<br/>
 - I begin creating the base project and the github repository. I also make some html structure and basic styling first.
+<br/>
 - We communicate back and forth while trying some new ideas that we come up with during the process.
+<br/>
 - I finish recreating the design and I present to her so she can give me feedback about what can be improved.
+<br/>
 - The project gets launched! 🚀 
 
