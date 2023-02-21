@@ -17,6 +17,7 @@ We've worked together in some projects and we always worked the same way:
 - The project gets launched! 🚀
 
 <br/>
+
 ## Final thoughts
 
 Recreating this website's been both fun and challenging. Working with Camila it's so easy. She gives good and solid feedback while being kind and honest. <br/><br/>
