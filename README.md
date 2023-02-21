@@ -14,5 +14,12 @@ We've worked together in some projects and we always worked the same way:
 
 - I finish recreating the design and I present to her so she can give me feedback about what can be improved.
 
-- The project gets launched! 🚀 
+- We add some final details.
+
+- The project gets launched! 🚀
+
+## Final thoughts
+
+Recreating this website's been both fun and challenging. Working with Camila it's so easy. She gives good and solid feedback while being kind and honest. <br/>
+I hope you like the website! 
 
